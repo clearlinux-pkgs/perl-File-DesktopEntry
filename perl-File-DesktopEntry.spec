@@ -4,7 +4,7 @@
 #
 Name     : perl-File-DesktopEntry
 Version  : 0.22
-Release  : 13
+Release  : 14
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MICHIELB/File-DesktopEntry-0.22.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MICHIELB/File-DesktopEntry-0.22.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libf/libfile-desktopentry-perl/libfile-desktopentry-perl_0.22-1.debian.tar.xz
@@ -104,4 +104,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.2/File/DesktopEntry.pm
+/usr/lib/perl5/vendor_perl/5.30.3/File/DesktopEntry.pm
