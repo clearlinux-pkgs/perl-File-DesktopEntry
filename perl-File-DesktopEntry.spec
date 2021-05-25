@@ -4,7 +4,7 @@
 #
 Name     : perl-File-DesktopEntry
 Version  : 0.22
-Release  : 19
+Release  : 20
 URL      : https://cpan.metacpan.org/authors/id/M/MI/MICHIELB/File-DesktopEntry-0.22.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/M/MI/MICHIELB/File-DesktopEntry-0.22.tar.gz
 Source1  : http://http.debian.net/debian/pool/main/libf/libfile-desktopentry-perl/libfile-desktopentry-perl_0.22-1.debian.tar.xz
